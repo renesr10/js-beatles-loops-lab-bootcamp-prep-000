@@ -4,20 +4,19 @@ function theBeatlesPlay(musicians, instruments) { var array = []; for (let i = 0
   return array; 
 }
 function johnLennonFacts(facts) { 
-  var results = [] 
-  var n = 0
+  var results = [];
+  var n = 0;
   while (n < facts.length) { 
   results.push(facts[n++] + "!!!"); 
 }
-return results
+return results;
 }
 function iLoveTheBeatles(n) {
   var array = [];
   do {
-    array.push("I love the Beatles!")
+    array.push("I love the Beatles!");
     n++;
-  // Your code here
 } while (n < 15);
-return array
+return array;
 }
 
