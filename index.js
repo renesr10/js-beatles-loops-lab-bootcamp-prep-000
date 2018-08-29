@@ -14,6 +14,7 @@ return results
 function iLoveTheBeatles(n) {
   var array = [];
   do {
+    array.push("I love the Beatles!")
   // Your code here
 } while (n < 15 && );
 }
