@@ -7,7 +7,7 @@ function johnLennonFacts(facts) {
   var results = [] 
   var number = 0
   while (number < facts.length) { 
-  (console.log(number++ + "!!!")); 
+  (console.log(factsnumber++ + "!!!")); 
 }
 }
 
