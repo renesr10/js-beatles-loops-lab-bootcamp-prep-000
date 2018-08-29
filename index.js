@@ -17,6 +17,7 @@ function iLoveTheBeatles(n) {
     array.push("I love the Beatles!")
     n++;
   // Your code here
-} while (n < 15 && iLoveTheBeatles());
+} while (n < 15);
+return array
 }
 
