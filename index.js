@@ -13,11 +13,8 @@ return results
 }
 function iLoveTheBeatles(n) {
   var array = [];
-  var i = 0;
-function incrementVariable() {
-  i = i + 1;}
-{ array.splice(i, 1)
- } while (array.length > 0 && incrementVariable())d
-return array
+  do {
+  // Your code here
+} while (&&);
 }
 
