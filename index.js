@@ -5,7 +5,8 @@ function theBeatlesPlay(musicians, instruments) { var array = []; for (let i = 0
 }
 function johnLennonFacts(facts) { 
   var results = [] 
-  var number  while (facts > 0) { 
+  var number = 0
+  while (facts > 0) { 
   (console.log(fact + "!!!")); 
 }
 }
