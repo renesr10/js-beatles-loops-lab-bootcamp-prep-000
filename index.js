@@ -1,6 +1,6 @@
 // add solution here
 function theBeatlesPlay(musicians, instruments) {
-  return array 
+ var array[];
 }
 
 function johnLennonFacts(facts) {
